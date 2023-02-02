@@ -1,0 +1,15 @@
+C:\Users\cschm\Favorites\repos\Variables_Exercise2\Variables_Exercise2\bin\Debug\net6.0\Variables_Exercise2.exe
+C:\Users\cschm\Favorites\repos\Variables_Exercise2\Variables_Exercise2\bin\Debug\net6.0\Variables_Exercise2.deps.json
+C:\Users\cschm\Favorites\repos\Variables_Exercise2\Variables_Exercise2\bin\Debug\net6.0\Variables_Exercise2.runtimeconfig.json
+C:\Users\cschm\Favorites\repos\Variables_Exercise2\Variables_Exercise2\bin\Debug\net6.0\Variables_Exercise2.dll
+C:\Users\cschm\Favorites\repos\Variables_Exercise2\Variables_Exercise2\bin\Debug\net6.0\Variables_Exercise2.pdb
+C:\Users\cschm\Favorites\repos\Variables_Exercise2\Variables_Exercise2\obj\Debug\net6.0\Variables_Exercise2.csproj.AssemblyReference.cache
+C:\Users\cschm\Favorites\repos\Variables_Exercise2\Variables_Exercise2\obj\Debug\net6.0\Variables_Exercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cschm\Favorites\repos\Variables_Exercise2\Variables_Exercise2\obj\Debug\net6.0\Variables_Exercise2.AssemblyInfoInputs.cache
+C:\Users\cschm\Favorites\repos\Variables_Exercise2\Variables_Exercise2\obj\Debug\net6.0\Variables_Exercise2.AssemblyInfo.cs
+C:\Users\cschm\Favorites\repos\Variables_Exercise2\Variables_Exercise2\obj\Debug\net6.0\Variables_Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\cschm\Favorites\repos\Variables_Exercise2\Variables_Exercise2\obj\Debug\net6.0\Variables_Exercise2.dll
+C:\Users\cschm\Favorites\repos\Variables_Exercise2\Variables_Exercise2\obj\Debug\net6.0\refint\Variables_Exercise2.dll
+C:\Users\cschm\Favorites\repos\Variables_Exercise2\Variables_Exercise2\obj\Debug\net6.0\Variables_Exercise2.pdb
+C:\Users\cschm\Favorites\repos\Variables_Exercise2\Variables_Exercise2\obj\Debug\net6.0\Variables_Exercise2.genruntimeconfig.cache
+C:\Users\cschm\Favorites\repos\Variables_Exercise2\Variables_Exercise2\obj\Debug\net6.0\ref\Variables_Exercise2.dll
